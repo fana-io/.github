@@ -1,4 +1,4 @@
-![Fana logo](https://github.com/fana-io/.github/tree/main/profile/assets)
+![Fana logo](https://github.com/fana-io/.github/blob/main/profile/assets/fana_logo_color_forwhitebg.png)
 ## Welcome to Fána!👋
 Fána an open-source feature flagging platform specializing in audience-targeting. Using Fána's robust audience targeting capabilities, developers can build confidence in their feature releases by progressively deploying to larger subsets of users and controlling feature toggles in real-time.
 
