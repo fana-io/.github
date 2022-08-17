@@ -33,4 +33,4 @@ At a high level, Fána's main components are:
 3. [Flag Bearer](https://github.com/Fana-io/Fana-flag-bearer) reverse proxy designed to stream and serve flag data to SDKs 
 
 ## Documentation
-https://fana-io.github.io/fana-docs/docs/
+https://fana-io.github.io/fana-docs/
