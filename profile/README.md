@@ -2,7 +2,7 @@
 ## Welcome to Fána!👋
 Fána an open-source feature flagging platform specializing in audience-targeting. Using Fána's robust audience targeting capabilities, developers can build confidence in their feature releases by progressively deploying to larger subsets of users and controlling feature toggles in real-time.
 
-📃 To read more about why and how we built Fána, check out our [technical case study](https://Fána-io.github.io/).
+📃 To read more about why and how we built Fána, check out our [technical case study](https://Fana-io.github.io/).
 
 ## Getting Started
 - 🐳 Deploy locally in one step [using Docker](https://github.com/fana-io/fana-deploy#using-docker), or
